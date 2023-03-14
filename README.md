@@ -13,6 +13,9 @@ Back-End Developer
 * 🌍  I'm based in İstanbul
 * 🖥️  See my portfolio at [My Blog](http://myavuz.net)
 
+Developer at day, learner at Night.
+
+I am skilled at designing and building Saas applications using :
 ### Skills
 
 ### Frontend  
